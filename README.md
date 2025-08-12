@@ -3,6 +3,8 @@
 SwiftToast — A lightweight, customizable toast notification utility for iOS built with UIKit.  
 Easily display quick feedback messages (success, error, warning, info, or normal) with smooth animations, icons, and flexible positioning (top, center, bottom).
 
+**Keywords:** Swift, iOS, UIKit, Toast, Notification, Alert, Message, HUD, Banner, Custom Alert, Swift UI Components
+
 ## 📌 Installation
 
 Simply drag and drop `SwiftToast.swift` into your Xcode project.  
